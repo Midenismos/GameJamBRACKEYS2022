@@ -1129,3 +1129,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.21-11.33.31:434][630]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.02.21-11.33.31:434][630]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
 [2022.02.21-11.33.31:434][630]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.184
+[2022.02.21-11.34.36:709][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/ChangeRoomTrigger_Blueprint" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/BP/ChangeRoomTrigger_Blueprint.uasset" SILENT=true
+[2022.02.21-11.34.36:733][211]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/ChangeRoomTrigger_Blueprint4BDFEB16453B1F2BBB1D12B94A82C7A8.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/BP/ChangeRoomTrigger_Blueprint.uasset'
+[2022.02.21-11.34.36:751][211]AssetCheck: New page: Asset Save: ChangeRoomTrigger_Blueprint
+[2022.02.21-11.34.36:752][211]LogContentValidation: Display: Validating Blueprint /Game/BP/ChangeRoomTrigger_Blueprint.ChangeRoomTrigger_Blueprint
