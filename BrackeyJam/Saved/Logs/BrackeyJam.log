@@ -1656,3 +1656,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.24-19.10.10:426][203]LogModuleManager: Shutting down and abandoning module PakFile (4)
 [2022.02.24-19.10.10:426][203]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2022.02.24-19.10.10:547][203]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.24-19.10.10:566][203]LogD3D11RHI: Shutdown
+[2022.02.24-19.10.10:566][203]LogD3D11RHI: CleanupD3DDevice
+[2022.02.24-19.10.10:640][203]LogExit: Exiting.
+[2022.02.24-19.10.10:871][203]Log file closed, 02/24/22 20:10:10
