@@ -1,0 +1,2 @@
+D:\travail\vers bureau\GAME JAM\BrackeysJam2\BrackeyJam\Intermediate\Build\Win64\UE4Editor\Development\BrackeyJam\Definitions.BrackeyJam.h
+D:\travail\vers bureau\GAME JAM\BrackeysJam2\BrackeyJam\Source\BrackeyJam\BrackeyJam.h
