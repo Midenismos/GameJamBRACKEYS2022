@@ -5762,3 +5762,102 @@ Total execution time: 114,65 seconds
 [2022.02.25-17.43.35:688][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
 [2022.02.25-17.43.38:560][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2022.02.25-17.43.38:593][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.25-17.45.47:144][267]LogSlate: Window 'Save Content' being destroyed
+[2022.02.25-17.45.47:435][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Core/CenteredCamera" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/BP/Core/CenteredCamera.uasset" SILENT=true
+[2022.02.25-17.45.47:502][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/CenteredCamera4615885847E137D77BFF5C8EC6AC5423.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/BP/Core/CenteredCamera.uasset'
+[2022.02.25-17.45.47:528][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/DatasmithContent/Materials/FBXImporter/VRED/Glass" FILE="../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" SILENT=true
+[2022.02.25-17.45.47:581][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/Glass565BE6D54C4225CB89A4EB839A75CB3E.tmp' to '../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset'
+[2022.02.25-17.45.47:583][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/J-Room-1-1" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Scene/J-Room-1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.25-17.45.47:615][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.02.25-17.45.47:630][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/J-Room-1-14AF9D9F94DD7C683CF5D5F8E521BAC84.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Scene/J-Room-1-1.umap'
+[2022.02.25-17.45.47:656][267]LogFileHelpers: Saving map 'J-Room-1-1' took 0.073
+[2022.02.25-17.45.47:656][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Bougie_1/SM_Candle_01" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/Bougie_1/SM_Candle_01.uasset" SILENT=true
+[2022.02.25-17.45.47:665][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/SM_Candle_01667DBEFF4019032D9E24EF9A0434D85A.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/Bougie_1/SM_Candle_01.uasset'
+[2022.02.25-17.45.47:666][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/bougie_2/SM_Candle_02" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_2/SM_Candle_02.uasset" SILENT=true
+[2022.02.25-17.45.47:672][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/SM_Candle_02CA43DEDF4D18E154734689A726861DA5.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_2/SM_Candle_02.uasset'
+[2022.02.25-17.45.47:674][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/bougie_3/SM_Candle_03" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_3/SM_Candle_03.uasset" SILENT=true
+[2022.02.25-17.45.47:682][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/SM_Candle_03013C69CA4136DD49438DACB47396619B.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_3/SM_Candle_03.uasset'
+[2022.02.25-17.45.47:683][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/support/SM_support_01" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/support/SM_support_01.uasset" SILENT=true
+[2022.02.25-17.45.47:696][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/SM_support_018E80037A46D530EAA25F7B988DEB26D4.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/support/SM_support_01.uasset'
+[2022.02.25-17.45.48:068][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_01_initialShadingGroup_6C1023704EE7B4A788FED8B6349AB3C2.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/Bougie_1/T_Candle_01_initialShadingGroup_BaseColor.uasset'
+[2022.02.25-17.45.48:360][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_01_initialShadingGroup_A553B3354CBC1D6D45A1F1B29F1D070F.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/Bougie_1/T_Candle_01_initialShadingGroup_Metallic.uasset'
+[2022.02.25-17.45.48:691][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_01_initialShadingGroup_9D51313F4CF8F71011F01FADB7932D1A.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/Bougie_1/T_Candle_01_initialShadingGroup_Roughness.uasset'
+[2022.02.25-17.45.49:315][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_02_initialShadingGroup_0B4A18C5479C0FF8617BBFAE4BAFF965.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_2/T_Candle_02_initialShadingGroup_BaseColor.uasset'
+[2022.02.25-17.45.49:647][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_02_initialShadingGroup_5E4DBD504DDB8C390961BB86881DE30C.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_2/T_Candle_02_initialShadingGroup_Metallic.uasset'
+[2022.02.25-17.45.50:154][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_02_initialShadingGroup_F82EBC194A5B3414B12577886D44D4EE.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_2/T_Candle_02_initialShadingGroup_Roughness.uasset'
+[2022.02.25-17.45.50:559][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_03_initialShadingGroup_6FFCDD554D7F320809A563B7E5184CC9.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_3/T_Candle_03_initialShadingGroup_BaseColor.uasset'
+[2022.02.25-17.45.50:894][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_03_initialShadingGroup_66AE799A44A47F8EA89AF8979458D24A.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_3/T_Candle_03_initialShadingGroup_Metallic.uasset'
+[2022.02.25-17.45.51:286][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_Candle_03_initialShadingGroup_47F6E40445EB648EF247AC8A58E084D5.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/bougie_3/T_Candle_03_initialShadingGroup_Roughness.uasset'
+[2022.02.25-17.45.51:807][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_HolderCandle_initialShadingGro0ED3072F4FA04B3D998526BE0F7BD048.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/support/T_HolderCandle_initialShadingGroup_BaseColor.uasset'
+[2022.02.25-17.45.52:456][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_HolderCandle_initialShadingGro1002C1FC407746C7D1FD49B58D3ED251.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/support/T_HolderCandle_initialShadingGroup_Metallic.uasset'
+[2022.02.25-17.45.53:268][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/T_HolderCandle_initialShadingGroF030AB044A5174CEAFBF9080FF8B667E.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Asset/support/T_HolderCandle_initialShadingGroup_Roughness.uasset'
+[2022.02.25-17.45.53:270][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/TestingCore" FILE="../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Scene/TestingCore.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.25-17.45.53:304][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.02.25-17.45.53:392][267]LogSavePackage: Moving '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Saved/TestingCore58E1B35D43BBC99D28E509892AC5A50A.tmp' to '../../../../travail/vers bureau/GAME JAM/BrackeysJam2/BrackeyJam/Content/Scene/TestingCore.umap'
+[2022.02.25-17.45.53:393][267]LogFileHelpers: Saving map 'TestingCore' took 0.124
+[2022.02.25-17.45.53:565][267]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.53:565][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-17.45.53:586][267]LogCascade: Quitting Cascade. FXSystem=0x000001F3DA07A320
+[2022.02.25-17.45.53:610][267]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.53:611][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-17.45.53:684][267]LogSlate: Window 'CenteredCamera' being destroyed
+[2022.02.25-17.45.53:732][267]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.53:733][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.25-17.45.53:969][267]LogSlate: Window 'BrackeyJam - Unreal Editor' being destroyed
+[2022.02.25-17.45.54:609][267]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Blueprint /Game/BP/Core/CenteredCamera.CenteredCamera
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating World /Game/Scene/TestingCore.TestingCore
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/support/T_HolderCandle_initialShadingGroup_Roughness.T_HolderCandle_initialShadingGroup_Roughness
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/support/T_HolderCandle_initialShadingGroup_Metallic.T_HolderCandle_initialShadingGroup_Metallic
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/support/T_HolderCandle_initialShadingGroup_BaseColor.T_HolderCandle_initialShadingGroup_BaseColor
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating StaticMesh /Game/Asset/support/SM_support_01.SM_support_01
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/bougie_3/T_Candle_03_initialShadingGroup_Roughness.T_Candle_03_initialShadingGroup_Roughness
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/bougie_3/T_Candle_03_initialShadingGroup_Metallic.T_Candle_03_initialShadingGroup_Metallic
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/bougie_3/T_Candle_03_initialShadingGroup_BaseColor.T_Candle_03_initialShadingGroup_BaseColor
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating StaticMesh /Game/Asset/bougie_3/SM_Candle_03.SM_Candle_03
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/bougie_2/T_Candle_02_initialShadingGroup_Roughness.T_Candle_02_initialShadingGroup_Roughness
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/bougie_2/T_Candle_02_initialShadingGroup_Metallic.T_Candle_02_initialShadingGroup_Metallic
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/bougie_2/T_Candle_02_initialShadingGroup_BaseColor.T_Candle_02_initialShadingGroup_BaseColor
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating StaticMesh /Game/Asset/bougie_2/SM_Candle_02.SM_Candle_02
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/Bougie_1/T_Candle_01_initialShadingGroup_Roughness.T_Candle_01_initialShadingGroup_Roughness
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/Bougie_1/T_Candle_01_initialShadingGroup_Metallic.T_Candle_01_initialShadingGroup_Metallic
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating Texture2D /Game/Asset/Bougie_1/T_Candle_01_initialShadingGroup_BaseColor.T_Candle_01_initialShadingGroup_BaseColor
+[2022.02.25-17.45.54:610][267]LogContentValidation: Display: Validating StaticMesh /Game/Asset/Bougie_1/SM_Candle_01.SM_Candle_01
+[2022.02.25-17.45.54:611][267]LogContentValidation: Display: Validating World /Game/Scene/J-Room-1-1.J-Room-1-1
+[2022.02.25-17.45.54:611][267]LogContentValidation: Display: Validating Material /DatasmithContent/Materials/FBXImporter/VRED/Glass.Glass
+[2022.02.25-17.45.54:615][268]Cmd: QUIT_EDITOR
+[2022.02.25-17.45.54:615][268]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.25-17.45.54:780][268]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.25-17.45.55:681][268]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.25-17.45.55:681][268]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.25-17.45.55:681][268]LogAudio: Display: Audio Device unregistered from world 'J-Room-1-1'.
+[2022.02.25-17.45.55:681][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.25-17.45.55:684][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.25-17.45.55:720][268]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.25-17.45.55:720][268]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.25-17.45.55:762][268]LogExit: Preparing to exit.
+[2022.02.25-17.45.56:605][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.25-17.45.57:993][268]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.57:996][268]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.57:998][268]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.58:000][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:001][268]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.25-17.45.58:003][268]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.58:647][268]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.25-17.45.59:996][268]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.45.59:997][268]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.25-17.46.00:023][268]LogExit: Editor shut down
+[2022.02.25-17.46.00:028][268]LogExit: Transaction tracking system shut down
