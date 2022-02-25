@@ -5861,3 +5861,10 @@ Total execution time: 114,65 seconds
 [2022.02.25-17.45.59:997][268]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2022.02.25-17.46.00:023][268]LogExit: Editor shut down
 [2022.02.25-17.46.00:028][268]LogExit: Transaction tracking system shut down
+[2022.02.25-17.46.11:778][268]LogExit: Object subsystem successfully closed.
+[2022.02.25-17.46.11:800][268]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.25-17.46.11:800][268]LogShaderCompilers: Display: Total job queries 1603, among them cache hits 1225 (76.42%)
+[2022.02.25-17.46.11:800][268]LogShaderCompilers: Display: Tracking 284 distinct input hashes that result in 98 distinct outputs (34.51%)
+[2022.02.25-17.46.11:800][268]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.02.25-17.46.11:800][268]LogShaderCompilers: Display: ================================================
+[2022.02.25-17.46.14:562][268]LogShaderCompilers: Display: Shaders left to compile 0
