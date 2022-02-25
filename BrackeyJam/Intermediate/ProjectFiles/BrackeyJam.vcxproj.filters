@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BrackeyJam.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5C3176BC-D5F2-41EC-B6E2-6B18F0C5848C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrackeyJam.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BrackeyJamEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B59CA818-CB75-4B04-B5B8-DE4E62D8F2D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BrackeyJam">
+      <UniqueIdentifier>{5536DAEB-899C-470B-A2CF-24CFA8AEB7AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrackeyJam\BrackeyJam.Build.cs">
+      <Filter>Source\BrackeyJam</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BrackeyJam\BrackeyJam.cpp">
+      <Filter>Source\BrackeyJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeyJam\BrackeyJam.h">
+      <Filter>Source\BrackeyJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeyJam\MyCableComponent.cpp">
+      <Filter>Source\BrackeyJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeyJam\MyCableComponent.h">
+      <Filter>Source\BrackeyJam</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
