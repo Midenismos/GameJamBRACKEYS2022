@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BrackeyJam/Saved/Config/CrashReportClient/UE4CC-Windows-3EBCE0834C4E04BF26F4F0AF4A6C5CA8/CrashReportClient.ini
+BrackeyJam/Saved/Config/CrashReportClient/UE4CC-Windows-5674AEE14CF1EF7EEF03598DB8C2C829/CrashReportClient.ini
+BrackeyJam/Saved/Logs/BrackeyJam-backup-2022.02.25-13.21.26.log
+BrackeyJam/Saved/Logs/BrackeyJam-backup-2022.02.25-19.55.16.log
